@@ -69,8 +69,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Game Elements Include Ledge Grab System, Moving Platforms, Switches, Elevators, Moveable Objects, Wall Jumping, Double
-Jumping, and Pressure Pads.
 ![Product Name Screen Shot](Images/ScreenShot.png)
 
 
