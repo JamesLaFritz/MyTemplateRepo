@@ -2,7 +2,7 @@
 <!--<h3 align="center">Project Title</h3>-->
 <!--<h2 align="center">Project Description</h2>-->
 <p align="center">
-	<img src ="https://github-readme-stats-blush-omega.vercel.app/api/pin?username=JamesLaFritz&repo=Dungeon-Escape-Mobile&theme=cobalt"/>'
+	<img src ="https://github-readme-stats-blush-omega.vercel.app/api/pin?username=JamesLaFritz&repo=MyTemplateRepo&theme=react"/>'
 	<br />
 	<a href="https://github.com/JamesLaFritz/MyTemplateRepo/issues">Report Bug</a>
         ·
@@ -113,3 +113,72 @@ Distributed under the MIT License. See `LICENSE` for more information.
 * [Scribtable Object Game Events](https://blog.devgenius.io/scriptableobject-game-events-1f3401bbde72)
 * [Making The Inspector Look Better](https://blog.devgenius.io/making-the-inspector-look-better-175baf39ada0)
 * [Creating Custom Packages](https://blog.devgenius.io/creating-custom-packages-for-use-in-unity-7dfbaa49e4b4)
+
+
+<!--
+Repo Card Exclusive Options:
+    show_owner - Show the repo's owner name (boolean)
+
+Common Options:
+    title_color - Card's title color (hex color)
+    text_color - Body text color (hex color)
+    icon_color - Icons color if available (hex color)
+    border_color - Card's border color (hex color). (Does not apply when hide_border is enabled)
+    bg_color - Card's background color (hex color) or a gradient in the form of angle,start,end
+    hide_border - Hides the card's border (boolean)
+    theme - name of the theme, choose from all available themes
+    cache_seconds - set the cache header manually (min: 1800, max: 86400)
+    locale - set the language in the card (e.g. cn, de, es, etc.)
+    border_radius - Corner rounding on the card_
+Gradient in bg_color
+
+You can provide multiple comma-separated values in bg_color option to render a gradient, the format of the gradient is :-
+
+&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10
+
+Avaliable Repo Card Themes
+default_repocard
+dark
+radical
+merko
+gruvbox
+tokyonight
+onedark
+cobalt
+synthwave
+highcontrast
+dracula
+prussian
+monokai
+vue
+vue-dark
+shades-of-purple
+nightowl
+buefy
+blue-green
+algolia
+great-gatsby
+darcula
+bear
+solarized-dark
+solarized-light
+chartreuse-dark
+nord
+gotham
+material-palenight
+graywhite
+vision-friendly-dark
+ayu-mirage
+midnight-purple
+calm
+flag-india
+omni
+react
+jolly
+maroongold
+yeblu
+blueberry
+slateorange
+kacho_ga
+outrun
+-->
