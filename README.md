@@ -1,50 +1,55 @@
-<!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-
-
-
-
-<!-- PROJECT LOGO -->
+<!-- Header -->
+<!--<h3 align="center">Project Title</h3>-->
+<!--<h2 align="center">Project Description</h2>-->
 <p align="center">
-  <a href="https://github.com/JamesLaFritz/MyTemplateRepo">
-    <img src="Images/Logo.png" alt="Logo" width="80" height="80">
-  </a>
+	<img src ="https://github-readme-stats-blush-omega.vercel.app/api/pin?username=JamesLaFritz&repo=Dungeon-Escape-Mobile&theme=cobalt"/>'
+	<br />
+	<a href="https://github.com/JamesLaFritz/MyTemplateRepo/issues">Report Bug</a>
+        ·
+        <a href="https://github.com/JamesLaFritz/MyTemplateRepo/issues">Request Feature</a>
 </p>
 
-  <h3 align="center">Project Title</h3>
-
-  <p align="center">
-    Project Description
-    <br />
-    <br />
-    <a href="https://github.com/JamesLaFritz/MyTemplateRepo/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/JamesLaFritz/MyTemplateRepo/issues">Request Feature</a>
-  </p>
-<br />
-
+<!-- PROJECT SHIELDS -->
+<p align="center">
+  <a href="https://github.com/JamesLafritz/MyTemplateRepo/graphs/contributors">
+	  <img src="https://img.shields.io/github/contributors/JamesLafritz/MyTemplateRepo.svg?style=for-the-badge"/>
+  </a>
+  <a href="https://img.shields.io/github/forks/JamesLafritz/MyTemplateRepo.svg?style=for-the-badge">
+	  <img src="https://img.shields.io/github/forks/JamesLafritz/MyTemplateRepo.svg?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/JamesLafritz/MyTemplateRepo/stargazers">
+	  <img src="https://img.shields.io/github/stars/JamesLafritz/MyTemplateRepo.svg?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/JamesLafritz/MyTemplateRepo/issues">
+	  <img src="https://img.shields.io/github/issues/JamesLafritz/MyTemplateRepo.svg?style=for-the-badge"/>
+  </a>
+  <a href="https://img.shields.io/github/license/JamesLafritz/MyTemplateRepo.svg?style=for-the-badge">
+	  <img src="https://img.shields.io/github/license/JamesLafritz/MyTemplateRepo.svg?style=for-the-badge"/>
+  </a>
+</p>
 
 <!-- Links -->
 <p align="center">
   <a href="https://jameslafritz.intensive.gamedevhq.com/">
 	  <img src="https://img.shields.io/badge/Portfolio-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/james-lafritz/">
-	  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a> 
   <a href="https://ktmarine1999.medium.com/">
-	  <img src="https://img.shields.io/badge/Articles-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+	  <img src="https://img.shields.io/badge/Articles-000000?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
+  <a href="https://www.linkedin.com/in/james-lafritz/">
+	  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a> 
   <a href="https://ktmarine1999.itch.io/">
-	  <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=Itch.io&logoColor=white"/>
-  </a>
+	  <img src="https://img.shields.io/badge/Itch-fa5c5c.svg?style=for-the-badge&logo=Itch.io&logoColor=white""/>
 </p>
 
 
+<!-- PROJECT LOGO -->
+<p align="center">
+  <a href="https://github.com/JamesLaFritz/Dungeon-Escape-Mobile">
+    <img src="Images/Logo.png" alt="Logo" width="256"/>
+  </a>
+</p>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -108,17 +113,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 * [Scribtable Object Game Events](https://blog.devgenius.io/scriptableobject-game-events-1f3401bbde72)
 * [Making The Inspector Look Better](https://blog.devgenius.io/making-the-inspector-look-better-175baf39ada0)
 * [Creating Custom Packages](https://blog.devgenius.io/creating-custom-packages-for-use-in-unity-7dfbaa49e4b4)
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/JamesLafritz/MyTemplateRepo.svg?style=for-the-badge
-[contributors-url]: https://github.com/JamesLafritz/MyTemplateRepo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/JamesLafritz/MyTemplateRepo.svg?style=for-the-badge
-[forks-url]: https://github.com/JamesLafritz/MyTemplateRepo/network/members
-[stars-shield]: https://img.shields.io/github/stars/JamesLafritz/MyTemplateRepo.svg?style=for-the-badge
-[stars-url]: https://github.com/JamesLafritz/MyTemplateRepo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/JamesLafritz/MyTemplateRepo.svg?style=for-the-badge
-[issues-url]: https://github.com/JamesLafritz/MyTemplateRepo/issues
-[license-shield]: https://img.shields.io/github/license/JamesLafritz/MyTemplateRepo.svg?style=for-the-badge
-[license-url]: https://github.com/JamesLafritz/MyTemplateRepo/blob/main/LICENSE
