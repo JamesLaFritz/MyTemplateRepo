@@ -2,7 +2,7 @@
 <!--<h3 align="center">Project Title</h3>-->
 <!--<h2 align="center">Project Description</h2>-->
 <p align="center">
-	<img src ="https://github-readme-stats-blush-omega.vercel.app/api/pin?username=JamesLaFritz&repo=MyTemplateRepo&theme=react"/>'
+	<img src ="https://github-readme-stats-jameslafritz.vercel.app/api/pin?username=JamesLaFritz&repo=MyTemplateRepo&theme=react" alt="Git Repo Title and Info" title="Repo Info"/>'
 	<br />
 	<a href="https://github.com/JamesLaFritz/MyTemplateRepo/issues">Report Bug</a>
         ·
@@ -12,35 +12,36 @@
 <!-- PROJECT SHIELDS -->
 <p align="center">
   <a href="https://github.com/JamesLafritz/MyTemplateRepo/graphs/contributors">
-	  <img src="https://img.shields.io/github/contributors/JamesLafritz/MyTemplateRepo.svg?style=for-the-badge"/>
+	  <img src="https://img.shields.io/github/contributors/JamesLafritz/MyTemplateRepo.svg?style=for-the-badge" title="Contributors Badge" alt="Contributors Badge"/>
   </a>
   <a href="https://img.shields.io/github/forks/JamesLafritz/MyTemplateRepo.svg?style=for-the-badge">
-	  <img src="https://img.shields.io/github/forks/JamesLafritz/MyTemplateRepo.svg?style=for-the-badge"/>
+	  <img src="https://img.shields.io/github/forks/JamesLafritz/MyTemplateRepo.svg?style=for-the-badge" title="forks Badge" alt="forks Badge"/>
   </a>
   <a href="https://github.com/JamesLafritz/MyTemplateRepo/stargazers">
-	  <img src="https://img.shields.io/github/stars/JamesLafritz/MyTemplateRepo.svg?style=for-the-badge"/>
+	  <img src="https://img.shields.io/github/stars/JamesLafritz/MyTemplateRepo.svg?style=for-the-badge" title="stargazers Badge" alt="stargazers Badge"/>
   </a>
   <a href="https://github.com/JamesLafritz/MyTemplateRepo/issues">
-	  <img src="https://img.shields.io/github/issues/JamesLafritz/MyTemplateRepo.svg?style=for-the-badge"/>
+	  <img src="https://img.shields.io/github/issues/JamesLafritz/MyTemplateRepo.svg?style=for-the-badge" title="issues Badge" alt="issues Badge"/>
   </a>
   <a href="https://img.shields.io/github/license/JamesLafritz/MyTemplateRepo.svg?style=for-the-badge">
-	  <img src="https://img.shields.io/github/license/JamesLafritz/MyTemplateRepo.svg?style=for-the-badge"/>
+	  <img src="https://img.shields.io/github/license/JamesLafritz/MyTemplateRepo.svg?style=for-the-badge" title="License Badge" alt="License Badge"/>
   </a>
 </p>
 
 <!-- Links -->
 <p align="center">
   <a href="https://jameslafritz.intensive.gamedevhq.com/">
-	  <img src="https://img.shields.io/badge/Portfolio-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+	  <img src="https://img.shields.io/badge/Portfolio-21759B?style=for-the-badge&logo=wordpress&logoColor=white" title="Portfolio Badge" alt="Portfolio" title="Portfolio Badge" alt="Portfolio" title="Portfolio Badge" alt="Portfolio" title="Portfolio Badge" alt="Portfolio"/>
   </a>
   <a href="https://ktmarine1999.medium.com/">
-	  <img src="https://img.shields.io/badge/Articles-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+	  <img src="https://img.shields.io/badge/Articles-000000?style=for-the-badge&logo=medium&logoColor=white" title="medium Badge" alt="medium" title="Portfolio Badge" alt="Portfolio" title="Portfolio Badge" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/james-lafritz/">
-	  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+	  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn Badge" alt="LinkedIn" title="Portfolio Badge" alt="Portfolio"/>
   </a> 
   <a href="https://ktmarine1999.itch.io/">
-	  <img src="https://img.shields.io/badge/Itch-fa5c5c.svg?style=for-the-badge&logo=Itch.io&logoColor=white""/>
+	  <img src="https://img.shields.io/badge/Itch-fa5c5c.svg?style=for-the-badge&logo=Itch.io&logoColor=white" title="Itch.io Badge" alt="Itch.io"/>
+  </a> 
 </p>
 
 
